@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(img/fundo3.jpeg);
+    background-image: url(fundo3.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -140,15 +140,15 @@ body {
 }
 
 .card-ia {
-    background-image: url(img/card-1.png); 
+    background-image: url(card-1.png); 
 }
 
 .card-web {
-    background-image: url(img/card-2.png); 
+    background-image: url(card-2.png); 
 }   
 
 .card-seguranca {
-    background-image: url(img/card-3.png);
+    background-image: url(card-3.png);
 }
 
 .imagem {
